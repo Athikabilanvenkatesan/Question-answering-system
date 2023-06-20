@@ -33,6 +33,10 @@ uvicorn main:app --reload
 
 
 
+https://github.com/Athikabilanvenkatesan/Question-answering-system/assets/113780724/63d3d3d7-d8cc-4349-ae9d-e77e37104b58
+
+
+
 # To run the code inside a Docker container:
 
 * Create the Dockerfile, requirements.txt, and main.py files in the same directory.
