@@ -49,3 +49,9 @@ https://github.com/Athikabilanvenkatesan/Question-answering-system/assets/113780
   
 
 
+https://github.com/Athikabilanvenkatesan/Question-answering-system/assets/113780724/f4e94502-2f79-4d42-84c3-f39251b7555e
+
+
+  
+
+
